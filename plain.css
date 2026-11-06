@@ -1,0 +1,6 @@
+html { background: #000000; color: #FFFFFF; color-scheme: dark; }
+body { margin: 0; font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+main { max-width: 34rem; padding: 18vh max(16px, env(safe-area-inset-left, 0px)) 4rem max(16px, env(safe-area-inset-right, 0px)); margin: 0 auto; }
+h1 { font-size: 2rem; line-height: 1.15; font-weight: 600; margin: 0 0 1rem; }
+p { color: #B4B8BE; margin: 0 0 1rem; }
+a { color: #F5D33D; }
